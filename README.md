@@ -1,8 +1,10 @@
 ### Jahmar Gale
-Hello everyone 👋🏽 I'm a self taught Data Analyst, Podcast Co-Host and Founder of The All About The Data Community. I started my Data Analyst journey August 2021 with the Google Data Analytics course, which I completed January 2022. I have a passion for community building and giving back to others which played a major role with me starting the All About The Data Community. The community currently has over 20,000 Members between Twitter, Discord, Youtube, Linkedin and more. I have spoken at multiple virtual tech events via twitter spaces, zoom and google me.
+Hello everyone 👋🏽 I'm a self taught Data Analyst, Podcast Co-Host and Founder of The All About The Data Community. I started my Data Analyst journey August 2021 with the Google Data Analytics course, which I completed January 2022. I have a passion for community building and giving back to others which played a major role in me starting the All About The Data Community. The community currently has over 20,000 Members between Twitter, Discord, Youtube, Linkedin and more. I have spoken at multiple virtual tech events via twitter spaces, zoom and google me.
 
 ## Technical Tools
-Excel, SQL, Power BI and Tableau
+Excel, SQL, Tableau and Power Bi
+## Soft Skills
+Servant Leadership, Project Management, Communication and Problem Solving
 
 ## Certifications
 Google Data Analytics Certification, Certified Scrum Master, Introduction to SQL, Google Tag Manager Fundamentals, Google Analytics and HubSpot Digital Marketing
