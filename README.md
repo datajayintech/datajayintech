@@ -2,7 +2,7 @@
 Hello everyone 👋🏽 My name is Jahmr Gale and I'm a self taught Data Analyst, Podcast Co-Host and Founder of The All About The Data Community. I started my Data Analyst journey August 2021 with the Google Data Analytics course, which I completed January 2022. I have a passion for community building and giving back to others which played a major role in me starting the All About The Data Community. The community currently has over 20,000 Members between Twitter, Discord, Youtube, Linkedin and more. I have spoken at multiple virtual tech events via twitter spaces, zoom and google me.
 
 ## Technical Tools
-Excel, SQL, Tableau and Power Bi
+SQL, Power Bi, Tableau, Excel, Pivot Tables, PostgreSQL, Azure Databricks, Azure Data Factory, PySpark, Python, Azure cloud
 ## Soft Skills
 Servant Leadership, Project Management, Communication and Problem Solving
 
