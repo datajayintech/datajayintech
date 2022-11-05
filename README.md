@@ -1,4 +1,4 @@
-### Welcome To My Dataverse
+
 Hello everyone 👋🏽 My name is Jahmar I'm a Self Taught Data Engineer. I specialize in collecting, transforming and analyzing data to solve business problems.
 <!--
 **datajayintech/datajayintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
