@@ -1,5 +1,5 @@
 
-Hello everyone 👋🏽 My name is Jahmar I'm a Self Taught Data Engineer. I specialize in collecting, transforming and analyzing data to solve business problems.
+Highly skilled data analyst with experience interpreting and analyzing data. Excellent understanding and proficiency of platforms for effective data analyses, including SQL, Excel, Tableau, Power Bi and Python. Strong communication, organizational and analytical skills.
 <!--
 **datajayintech/datajayintech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
